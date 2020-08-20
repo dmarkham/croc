@@ -1,0 +1,7 @@
+github.com/ilius/crock32 v0.0.0-20190401215938-52efbb347fd1 h1:lUJ6GKg7Ew9TnNtFPrxfW44K43sg+GV0lMh4q7y6EBM=
+github.com/ilius/crock32 v0.0.0-20190401215938-52efbb347fd1/go.mod h1:ERkCbU4b16B5wJp8LsESdCupDG6HxdqN0iN80jAY2mE=
+github.com/richardlehane/crock32 v1.0.1 h1:GV9EqtAr7RminQ8oGrDt3gYXkzDDPJ5fROaO1Mux14g=
+github.com/richardlehane/crock32 v1.0.1/go.mod h1:xUIlLABtHBgs1bNIBdUQR9F2xtRzS0TujtbR68hmEWU=
+golang.org/x/exp v0.0.0-20200513190911-00229845015e h1:rMqLP+9XLy+LdbCXHjJHAmTfXCr93W7oruWA6Hq1Alc=
+golang.org/x/exp/errors v0.0.0-20200513190911-00229845015e h1:Ig6CpZm9nvqybF+P3mORbWMG22rp2qZnx/RU8FzdlMc=
+golang.org/x/exp/errors v0.0.0-20200513190911-00229845015e/go.mod h1:YgqsNsAu4fTvlab/7uiYK9LJrCIzKg/NiZUIH1/ayqo=
